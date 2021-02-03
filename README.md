@@ -15,7 +15,8 @@ Protocol data collection
   |Birth Day(DD-MM-YYYY)|วันเดือนปีเกิด (วว-ดด-ปป)|วันเดือนปีเกิดของอาสาสมัคร|  ปีต้องแปลงเป็น ค.ศ.|
   |Date of data collection (DD-MM-YYYY) | วันที่บันทึกข้อมูล (วว-ดด-ปป)|วันที่กรอก CRF |ปีต้องแปลงเป็น ค.ศ.|
   |Age at enrollment | อายุเมื่อบันทึก (ปี)| อายุเมื่อกรอก CRF| บันทึกเป็นปี |
-  |Projects involved -> Cancer,Rare disease,Pharmacogenomics,NCD,Infectious Diseases|เกณฑ์เข้าร่วมโครงการ->โรคมะเร็ง ,โรคหายาก , เภสัชพันธุศาสตร์/แพ้ยา ,โรค NCD ,โรคติดเชื้อโรค|โรคที่อาสาสมัครเป็น|ตอบได้ข้อเดียว|
+  |Projects involved ->
+  -Cancer,Rare disease,Pharmacogenomics,NCD,Infectious Diseases|เกณฑ์เข้าร่วมโครงการ->โรคมะเร็ง ,โรคหายาก , เภสัชพันธุศาสตร์/แพ้ยา ,โรค NCD ,โรคติดเชื้อโรค|โรคที่อาสาสมัครเป็น|ตอบได้ข้อเดียว|
 |Is this the patient or the relatives?-> Patient, Relative|ผู้เข้าร่วมวิจัยเป็น -> ผู้ป่วย , ญาติ|คนกรอก CRF |-|\
 |Relationship to the index case-> Parents,Siblings,Offspring,Grandparents,Uncle/Aunt|กรณีเป็นญาติ มีความสัมพันธ์เป็น-> พ่อ-แม่ ,พี่น้อง,บุตร,ปู่ย่าตายาย,ลุงป้าน้าอา|ความสัมพันธ์กับผู้ป่วย|ข้อคำถามจะแสดงเมื่อเลือกตัวเลือก ญาติ|
 |For cancer and rare disease, do the patient have a family history?-> No,Yes,Unknown|ครอบครัวของผู้วิจัยมีสมาชิกในครอบครัวเป็นโรคกลุ่มเดียวกันในข้อ3หรือไม่(สำหรับโรคมะเร็งและโรคหายาก)->ไม่มี,มี(กีคน),ไม่ทราบ/ไม่แน่ใจ|ครอบครัวของผู้วิจัยมีใครเป็นโรคตามข้อ 3 หรือไม่|ถ้าตอบมี ระบุจำนวนคน|
